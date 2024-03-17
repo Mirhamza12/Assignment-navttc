@@ -1,34 +1,18 @@
-body
-{ background-color: rgb(226, 233, 135);
-    color: rgba(87, 48, 48, 0.973);
-}
-h1{
-    background-color: rgb(132, 228, 154);
-}
-h2{
-    background-color: rgb(226, 189, 188);
-}
-#id1
+.container
 {
-    background-color: rgb(117, 173, 173);
+  width: 50%;
+  margin: auto;  
 }
-#id2
+.container1
 {
-    background-color: rgb(204, 181, 152);
-}
-#tab1
-{
-    background-color: rgb(199, 172, 199);
-}
-#tab2
-{
-    background-color: rgb(134, 129, 117);
+    width: auto;
+    margin: auto;
 }
 button 
-{background-color: black;
+{background-color: rgb(95, 4, 4);
     border: 2px black solid
     border-radius 0ch;
-    color: rgb(94, 255, 0);
+    color: rgb(93, 150, 61);
     padding: 0cqw;
     text-decoration: none;
     display: inline-block;
